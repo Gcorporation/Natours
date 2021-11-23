@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  /* with this basically, whatever width or height we specify, is not included as extra, means it will be included in this model */
+}
+
+body {
+    box-sizing: border-box;
+}
